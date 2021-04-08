@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+{% set content_arr = page.content | split(pat=config.extra.recipe_sep) %}
+<div class="fade">{{ page.description | safe }}</div>
+<div class="wrapper-recipe">
+  <div class="ingredients">
+    <h2>ingredients</h2>
+    {{ content_arr.0 | safe }}
+  </div>
+  <div class="instructions">
+    <h2>instructions</h2>
+    {{ content_arr.1 | safe }}
+    {% if page.extra.source or content_arr.2 %}<h2>notes</h2>{% endif %}
+    {% if content_arr.2 %}
+    <div class="fade">{{ content_arr.2 | safe }}</div>
+    {% endif %}
+
+    {% if page.extra.source %}
+    {% if page.extra.source is starting_with("http") -%}<div class="fade source-url"><span class="undo-color">url: </span><a href="{{ page.extra.source | safe }}">{{ page.extra.source | safe }}</a></div>
+    {%- else -%}<span class="fade">recipe from: {{ page.extra.source | safe }}</span>{%- endif -%}
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

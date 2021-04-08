@@ -1,0 +1,7 @@
+{
+    "nav": [
+        {"url": "/recipes/", "name": "recipes"},
+        {"url": "/ingredients/", "name": "ingredients"}
+    ]
+}
+    

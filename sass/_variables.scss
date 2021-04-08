@@ -1,0 +1,32 @@
+// Colors
+// $main_color: #05B592;
+// $darkBlue: #036350;
+$main_color: #f14c00;
+$dark_color: #662000;
+$light_color: #ff9666;
+
+// Grays
+$black: #000;
+$darkGray: #292939;
+$gray: #666;
+$lightGray: #ddd;
+
+$white: #fafafa;
+$offWhite: #f7f7f1;
+$darkoffWhite: #f2f2e3;
+
+$minWidth: 260px;
+$maxWidth: 800px;
+$mobileWidth: 539px;
+
+// Font stacks
+$primary: Book Antiqua, Palatino, Merriweather, Helvetica, Arial, sans-serif;
+$math: Georgia, Times New Roman, serif;
+$mono: Menlo, Consolas, Monaco, monospace;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: $mobileWidth) {
+    @content;
+  }
+}
