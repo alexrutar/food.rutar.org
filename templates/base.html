@@ -34,7 +34,13 @@
 
         <nav class="header-nav">
           {% set links = load_data(path="data/links.json") %}
-          {% for obj in links.nav %}<a {% if obj.name == title %}class='active' {% endif %}href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a>{% endfor %}
+          {%- for obj in links.nav -%}
+          {%- if page.permalink %}
+          {%- set active_page = page.permalink is containing(obj.name) %}
+          {%- else %}
+          {%- set active_page = false %}
+          {%- endif %}
+          <a {% if obj.name == title or active_page %}class='active' {% endif %}href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a>{% endfor %}
         </nav>
       </div>
 

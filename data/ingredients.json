@@ -1,0 +1,870 @@
+{
+    "'00' pizza flour": [
+        "1 cup",
+        "116"
+    ],
+    "almond flour": [
+        "1 cup",
+        "96"
+    ],
+    "almond meal": [
+        "1 cup",
+        "84"
+    ],
+    "almond paste (packed)": [
+        "1 cup",
+        "259"
+    ],
+    "almonds (sliced)": [
+        "½ cup",
+        "43"
+    ],
+    "almonds (slivered)": [
+        "½ cup",
+        "57"
+    ],
+    "almonds, whole (unblanched)": [
+        "1 cup",
+        "142"
+    ],
+    "amaranth flour": [
+        "1 cup",
+        "103"
+    ],
+    "apples (dried, diced)": [
+        "1 cup",
+        "85"
+    ],
+    "apples (peeled, sliced)": [
+        "1 cup",
+        "113"
+    ],
+    "apricots (dried, diced)": [
+        "½ cup",
+        "64"
+    ],
+    "baking powder": [
+        "1 tsp",
+        "4"
+    ],
+    "baking soda": [
+        "½ tsp",
+        "3"
+    ],
+    "bananas (mashed)": [
+        "1 cup",
+        "227"
+    ],
+    "barley (cooked)": [
+        "1 cup",
+        "215"
+    ],
+    "barley (pearled)": [
+        "1 cup",
+        "213"
+    ],
+    "barley flakes": [
+        "½ cup",
+        "46"
+    ],
+    "barley flour": [
+        "1 cup",
+        "85"
+    ],
+    "basil pesto": [
+        "2 tbsp",
+        "28"
+    ],
+    "berries (frozen)": [
+        "1 cup",
+        "142"
+    ],
+    "blueberries (dried)": [
+        "1 cup",
+        "156"
+    ],
+    "blueberries (fresh)": [
+        "1 cup",
+        "170"
+    ],
+    "blueberry juice": [
+        "1 cup",
+        "241"
+    ],
+    "bran cereal": [
+        "1 cup",
+        "60"
+    ],
+    "bread crumbs (dried)": [
+        "¼ cup",
+        "28"
+    ],
+    "bread crumbs (fresh)": [
+        "¼ cup",
+        "21"
+    ],
+    "bread crumbs (japanese panko)": [
+        "1 cup",
+        "50"
+    ],
+    "bread flour": [
+        "1 cup",
+        "120"
+    ],
+    "brown rice (cooked)": [
+        "1 cup",
+        "170"
+    ],
+    "brown rice flour": [
+        "1 cup",
+        "128"
+    ],
+    "buckwheat (whole)": [
+        "1 cup",
+        "170"
+    ],
+    "buckwheat flour": [
+        "1 cup",
+        "120"
+    ],
+    "bulgur": [
+        "1 cup",
+        "152"
+    ],
+    "butter": [
+        "½ cup",
+        "113"
+    ],
+    "buttermilk": [
+        "1 cup",
+        "227"
+    ],
+    "buttermilk powder": [
+        "2 tbsp",
+        "18"
+    ],
+    "cacao nibs": [
+        "1 cup",
+        "120"
+    ],
+    "candied peel": [
+        "½ cup",
+        "85"
+    ],
+    "caraway seeds": [
+        "2 tbsp",
+        "18"
+    ],
+    "carrots (cooked and puréed)": [
+        "½ cup",
+        "128"
+    ],
+    "carrots (diced)": [
+        "1 cup",
+        "142"
+    ],
+    "carrots (grated)": [
+        "1 cup",
+        "99"
+    ],
+    "cashews (chopped)": [
+        "1 cup",
+        "113"
+    ],
+    "cashews (whole)": [
+        "1 cup",
+        "113"
+    ],
+    "celery (diced)": [
+        "1 cup",
+        "142"
+    ],
+    "cheese (feta)": [
+        "½ cup",
+        "57"
+    ],
+    "cheese (grated cheddar, jack, mozzarella, or swiss)": [
+        "1 cup",
+        "113"
+    ],
+    "cheese (grated parmesan)": [
+        "½ cup",
+        "50"
+    ],
+    "cheese (ricotta)": [
+        "1 cup",
+        "227"
+    ],
+    "cherries (candied)": [
+        "¼ cup",
+        "50"
+    ],
+    "cherries (dried)": [
+        "½ cup",
+        "71"
+    ],
+    "cherries (fresh, pitted, chopped)": [
+        "½ cup",
+        "80"
+    ],
+    "cherries (frozen)": [
+        "1 cup",
+        "113"
+    ],
+    "chickpea flour": [
+        "1 cup",
+        "85"
+    ],
+    "chives (fresh)": [
+        "½ cup",
+        "21"
+    ],
+    "chocolate (chips / chopped)": [
+        "1 cup",
+        "170"
+    ],
+    "cocoa (unsweetened)": [
+        "½ cup",
+        "42"
+    ],
+    "coconut (sweetened, shredded)": [
+        "1 cup",
+        "85"
+    ],
+    "coconut (toasted)": [
+        "1 cup",
+        "85"
+    ],
+    "coconut (unsweetened, desiccated)": [
+        "1 cup",
+        "85"
+    ],
+    "coconut (unsweetened, large flakes)": [
+        "1 cup",
+        "60"
+    ],
+    "coconut (unsweetened, shredded)": [
+        "1 cup",
+        "53"
+    ],
+    "coconut flour": [
+        "1 cup",
+        "128"
+    ],
+    "coconut milk powder": [
+        "½ cup",
+        "57"
+    ],
+    "coconut oil": [
+        "½ cup",
+        "113"
+    ],
+    "coconut sugar": [
+        "½ cup",
+        "77"
+    ],
+    "cookie crumbs": [
+        "1 cup",
+        "85"
+    ],
+    "corn (popped)": [
+        "4 cups",
+        "21"
+    ],
+    "corn syrup": [
+        "1 cup",
+        "312"
+    ],
+    "cornmeal (whole)": [
+        "1 cup",
+        "138"
+    ],
+    "cornmeal (yellow, quaker)": [
+        "1 cup",
+        "156"
+    ],
+    "cornstarch": [
+        "¼ cup",
+        "28"
+    ],
+    "cracked wheat": [
+        "1 cup",
+        "149"
+    ],
+    "cranberries (dried)": [
+        "½ cup",
+        "57"
+    ],
+    "cranberries (fresh or frozen)": [
+        "1 cup",
+        "99"
+    ],
+    "cream (heavy cream, light cream, or half & half)": [
+        "1 cup",
+        "227"
+    ],
+    "cream cheese": [
+        "1 cup",
+        "227"
+    ],
+    "crystallized ginger": [
+        "½ cup",
+        "92"
+    ],
+    "currants": [
+        "1 cup",
+        "142"
+    ],
+    "dates (chopped)": [
+        "1 cup",
+        "149"
+    ],
+    "dried blueberry powder": [
+        "¼ cup",
+        "28"
+    ],
+    "dried milk (baker's special dry milk)": [
+        "¼ cup",
+        "28"
+    ],
+    "dried nonfat milk (powdered)": [
+        "¼ cup",
+        "28"
+    ],
+    "dried potato flakes (instant mashed potatoes)": [
+        "½ cup",
+        "43"
+    ],
+    "dried whole milk (powdered)": [
+        "½ cup",
+        "50"
+    ],
+    "durum flour": [
+        "1 cup",
+        "124"
+    ],
+    "egg (fresh)": [
+        "1 large",
+        "50"
+    ],
+    "egg white (fresh)": [
+        "1 large",
+        "35"
+    ],
+    "egg whites (dried)": [
+        "2 tbsp",
+        "11"
+    ],
+    "egg yolk (fresh)": [
+        "1 large",
+        "14"
+    ],
+    "espresso powder": [
+        "1 tbsp",
+        "7"
+    ],
+    "figs (dried, chopped)": [
+        "1 cup",
+        "149"
+    ],
+    "first clear flour": [
+        "1 cup",
+        "106"
+    ],
+    "flax meal": [
+        "½ cup",
+        "50"
+    ],
+    "flaxseed": [
+        "¼ cup",
+        "35"
+    ],
+    "french-style flour": [
+        "1 cup",
+        "120"
+    ],
+    "garlic (minced)": [
+        "2 tbsp",
+        "28"
+    ],
+    "garlic (peeled and sliced)": [
+        "1 cup",
+        "149"
+    ],
+    "ginger (fresh, sliced)": [
+        "¼ cup",
+        "57"
+    ],
+    "graham crackers (crushed)": [
+        "1 cup",
+        "142"
+    ],
+    "granola": [
+        "1 cup",
+        "113"
+    ],
+    "grape nuts": [
+        "½ cup",
+        "57"
+    ],
+    "hazelnut flour": [
+        "1 cup",
+        "89"
+    ],
+    "hazelnut spread": [
+        "½ cup",
+        "160"
+    ],
+    "hazelnuts (whole)": [
+        "1 cup",
+        "142"
+    ],
+    "high-gluten flour": [
+        "1 cup",
+        "120"
+    ],
+    "honey": [
+        "1 tbsp",
+        "21"
+    ],
+    "irish-style flour": [
+        "1 cup",
+        "110"
+    ],
+    "italian-style flour": [
+        "1 cup",
+        "106"
+    ],
+    "jam or preserves": [
+        "¼ cup",
+        "85"
+    ],
+    "key lime juice": [
+        "1 cup",
+        "227"
+    ],
+    "lard": [
+        "½ cup",
+        "113"
+    ],
+    "leeks (diced)": [
+        "1 cup",
+        "92"
+    ],
+    "lemon juice powder": [
+        "2 tbsp",
+        "18"
+    ],
+    "lime juice powder": [
+        "2 tbsp",
+        "18"
+    ],
+    "macadamia nuts (whole)": [
+        "1 cup",
+        "149"
+    ],
+    "malt syrup": [
+        "2 tbsp",
+        "43"
+    ],
+    "malted milk powder": [
+        "¼ cup",
+        "35"
+    ],
+    "malted wheat flakes": [
+        "½ cup",
+        "64"
+    ],
+    "maple sugar": [
+        "½ cup",
+        "78"
+    ],
+    "maple syrup": [
+        "½ cup",
+        "156"
+    ],
+    "marshmallow crème": [
+        "1 cup",
+        "85"
+    ],
+    "marshmallows (mini)": [
+        "1 cup",
+        "43"
+    ],
+    "marzipan": [
+        "1 cup",
+        "290"
+    ],
+    "mascarpone cheese": [
+        "1 cup",
+        "227"
+    ],
+    "mayonnaise": [
+        "½ cup",
+        "113"
+    ],
+    "meringue powder": [
+        "¼ cup",
+        "43"
+    ],
+    "milk (evaporated)": [
+        "½ cup",
+        "113"
+    ],
+    "milk (fresh)": [
+        "1 cup",
+        "227"
+    ],
+    "millet (whole)": [
+        "½ cup",
+        "103"
+    ],
+    "mini chocolate chips": [
+        "1 cup",
+        "177"
+    ],
+    "molasses": [
+        "¼ cup",
+        "85"
+    ],
+    "mushrooms (sliced)": [
+        "1 cup",
+        "78"
+    ],
+    "non-diastatic malt powder": [
+        "2 tbsp",
+        "18"
+    ],
+    "oat bran": [
+        "½ cup",
+        "53"
+    ],
+    "oat flour": [
+        "1 cup",
+        "92"
+    ],
+    "oats (old-fashioned or quick-cooking)": [
+        "1 cup",
+        "89"
+    ],
+    "olive oil": [
+        "¼ cup",
+        "50"
+    ],
+    "olives (sliced)": [
+        "1 cup",
+        "142"
+    ],
+    "onions (fresh, diced)": [
+        "1 cup",
+        "142"
+    ],
+    "palm shortening": [
+        "¼ cup",
+        "45"
+    ],
+    "pastry flour": [
+        "1 cup",
+        "106"
+    ],
+    "peaches (peeled and diced)": [
+        "1 cup",
+        "170"
+    ],
+    "peanut butter": [
+        "½ cup",
+        "135"
+    ],
+    "peanuts (whole, shelled)": [
+        "1 cup",
+        "142"
+    ],
+    "pears (peeled and diced)": [
+        "1 cup",
+        "163"
+    ],
+    "pecan meal": [
+        "1 cup",
+        "80"
+    ],
+    "pecans (diced)": [
+        "½ cup",
+        "57"
+    ],
+    "pine nuts": [
+        "½ cup",
+        "71"
+    ],
+    "pineapple (dried)": [
+        "½ cup",
+        "71"
+    ],
+    "pineapple (fresh or canned, diced)": [
+        "1 cup",
+        "170"
+    ],
+    "pistachio nuts (shelled)": [
+        "½ cup",
+        "60"
+    ],
+    "plain flour": [
+        "1 cup",
+        "120"
+    ],
+    "polenta (coarse ground cornmeal)": [
+        "1 cup",
+        "163"
+    ],
+    "poppy seeds": [
+        "2 tbsp",
+        "18"
+    ],
+    "potato flour": [
+        "¼ cup",
+        "46"
+    ],
+    "potato starch": [
+        "1 cup",
+        "152"
+    ],
+    "pumpernickel flour": [
+        "1 cup",
+        "106"
+    ],
+    "pumpkin purée": [
+        "1 cup",
+        "227"
+    ],
+    "quinoa (cooked)": [
+        "1 cup",
+        "184"
+    ],
+    "quinoa (whole)": [
+        "1 cup",
+        "177"
+    ],
+    "quinoa flour": [
+        "1 cup",
+        "110"
+    ],
+    "raisins (loose)": [
+        "1 cup",
+        "149"
+    ],
+    "raisins (packed)": [
+        "½ cup",
+        "85"
+    ],
+    "raspberries (fresh)": [
+        "1 cup",
+        "120"
+    ],
+    "rhubarb (sliced, ½ inch slices)": [
+        "1 cup",
+        "120"
+    ],
+    "rice (long grain, dry)": [
+        "½ cup",
+        "99"
+    ],
+    "rice flour (white)": [
+        "1 cup",
+        "142"
+    ],
+    "rice krispies": [
+        "1 cup",
+        "28"
+    ],
+    "rye chops": [
+        "1 cup",
+        "120"
+    ],
+    "rye flakes": [
+        "1 cup",
+        "124"
+    ],
+    "rye flour": [
+        "1 cup",
+        "106"
+    ],
+    "salt (kosher, diamond crystal)": [
+        "1 tbsp",
+        "8"
+    ],
+    "salt (kosher, morton's)": [
+        "1 tbsp",
+        "16"
+    ],
+    "salt (table)": [
+        "1 tbsp",
+        "18"
+    ],
+    "scallions (sliced)": [
+        "1 cup",
+        "64"
+    ],
+    "self-rising flour": [
+        "1 cup",
+        "113"
+    ],
+    "semolina flour": [
+        "1 cup",
+        "163"
+    ],
+    "sesame seeds": [
+        "½ cup",
+        "71"
+    ],
+    "shallots (peeled and sliced)": [
+        "1 cup",
+        "156"
+    ],
+    "sorghum flour": [
+        "1 cup",
+        "138"
+    ],
+    "sour cream": [
+        "1 cup",
+        "227"
+    ],
+    "soy flour": [
+        "¼ cup",
+        "35"
+    ],
+    "spelt flour": [
+        "1 cup",
+        "99"
+    ],
+    "sprouted wheat flour": [
+        "1 cup",
+        "113"
+    ],
+    "steel cut oats": [
+        "½ cup",
+        "70"
+    ],
+    "strawberries (fresh sliced)": [
+        "1 cup",
+        "167"
+    ],
+    "sugar (caster)": [
+        "1 cup",
+        "225"
+    ],
+    "sugar (powdered, unsifted)": [
+        "2 cups",
+        "227"
+    ],
+    "sugar (dark or light brown, packed)": [
+        "1 cup",
+        "213"
+    ],
+    "sugar (demerara) ": [
+        "1 cup",
+        "220"
+    ],
+    "sugar (granulated white)": [
+        "1 cup",
+        "198"
+    ],
+    "sugar (turbinado, raw)": [
+        "1 cup",
+        "180"
+    ],
+    "sugar substitute (splenda)": [
+        "1 cup",
+        "25"
+    ],
+    "sunflower seeds": [
+        "¼ cup",
+        "35"
+    ],
+    "condensed milk": [
+        "¼ cup",
+        "78"
+    ],
+    "tahini paste": [
+        "½ cup",
+        "128"
+    ],
+    "tapioca (quick cooking)": [
+        "2 tbsp",
+        "21"
+    ],
+    "tapioca starch or flour": [
+        "1 cup",
+        "113"
+    ],
+    "teff flour": [
+        "1 cup",
+        "135"
+    ],
+    "toasted almond flour": [
+        "1 cup",
+        "96"
+    ],
+    "unbleached cake flour": [
+        "1 cup",
+        "120"
+    ],
+    "vanilla extract ": [
+        "1 tbsp",
+        "14"
+    ],
+    "vegetable oil": [
+        "1 cup",
+        "198"
+    ],
+    "vegetable shortening": [
+        "¼ cup",
+        "46"
+    ],
+    "vital wheat gluten": [
+        "2 tbsp",
+        "18"
+    ],
+    "walnuts (chopped)": [
+        "1 cup",
+        "113"
+    ],
+    "walnuts (whole)": [
+        "½ cup",
+        "64"
+    ],
+    "water": [
+        "1 cup",
+        "227"
+    ],
+    "wheat berries (red)": [
+        "1 cup",
+        "184"
+    ],
+    "wheat bran": [
+        "½ cup",
+        "32"
+    ],
+    "wheat germ": [
+        "¼ cup",
+        "28"
+    ],
+    "white chocolate chips": [
+        "1 cup",
+        "170"
+    ],
+    "whole wheat flour": [
+        "1 cup",
+        "113"
+    ],
+    "whole wheat pastry flour / graham flour": [
+        "1 cup",
+        "96"
+    ],
+    "yeast (instant)": [
+        "1 tbsp",
+        "9"
+    ],
+    "yogurt": [
+        "1 cup",
+        "227"
+    ]
+}

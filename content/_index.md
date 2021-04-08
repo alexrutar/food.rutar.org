@@ -2,6 +2,7 @@
 title = "about"
 template = "index.html"
 +++
+Hi, I'm [Alex](https://rutar.org).
 This website is a personal list of recipes for meals that I have prepared and greatly enjoyed.
 These recipes are not my creation, though sometimes modified from the original.
 Where possible I have included attribution for the original source.

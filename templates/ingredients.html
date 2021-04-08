@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+{{ section.content | safe }}
+{% set ingredients_hash = load_data(path="data/ingredients.json")%}
+<table>
+  <thead>
+    <tr>
+      <td></td>
+      <th>volume</th>
+      <th>mass (grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for name, row_arr in ingredients_hash %}
+    <tr>
+      <th>{{ name | safe }}</th>
+      <td>{{ row_arr.0 | safe }}</td>
+      <td>{{ row_arr.1 | safe }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+{% endblock %}

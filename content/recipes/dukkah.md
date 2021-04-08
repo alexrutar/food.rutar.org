@@ -2,7 +2,7 @@
 title = "Dukkah"
 description = "Egyptian spice and nut garnish"
 [extra]
-source = "'Jerusalem' by Yotam Ottolenghi and Sami Tami"
+source = "'Jerusalem' by Yotam Ottolenghi and Sami Tamimi"
 +++
 70g hazelnuts, with their skins
 
