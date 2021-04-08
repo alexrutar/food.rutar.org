@@ -1,8 +1,13 @@
 +++
 title = "Leek and celeriac soup"
-description = "Hearty vegetable soup without being too rich or creamy."
+description = "Hearty vegetable soup that is not too rich."
+weight = 0
+
 [extra]
 source = "https://www.rivercottage.net/recipes/leek-and-celeriac-soup"
+
+[taxonomies]
+categories = ["main"]
 +++
 50g unsalted butter
 

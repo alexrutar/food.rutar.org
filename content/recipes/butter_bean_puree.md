@@ -1,8 +1,13 @@
 +++
 title = "Butter bean purée"
 description = "Rich and flavourful bean purée, with versatile uses."
+weight = 0
+
 [extra]
 source = "https://ottolenghi.co.uk/recipes/butter-bean-puree-with-dukkah"
+
+[taxonomies]
+categories = ["side"]
 +++
 250g dried butter beans, soaked overnight in plenty of cold water with ½ tbsp bicarbonate of soda
 

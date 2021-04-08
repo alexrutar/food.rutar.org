@@ -124,24 +124,28 @@ table {
   margin: 25px 0;
   width: 100%;
   font-size: 90%;
-  thead tr th, tbody tr th {
-    padding: 3px 10px;
+  thead tr th {
     background-color: $darkoffWhite;
+  }
+  tbody tr {
+
+    th {
+      font-weight: bold;
+    }
+
+    td {
+      word-wrap: normal;
+      max-width: 90%;
+    }
+  }
+
+  th, td {
     text-align: left;
-  }
-  tbody tr th {
-    font-weight: 600;
-  }
-  tbody tr td {
-    padding: 4px 5px;
-    word-wrap: normal;
-    max-width: 90%;
+    padding: 4px 8px;
+    border-bottom: 1px solid $lightGray;
   }
 }
 
-th, td {
-  border-bottom: 1px solid $lightGray;
-}
 
 
 blockquote {

@@ -1,8 +1,13 @@
 +++
 title = "Braised red cabbage with apple, bacon, and balsamic vinegar"
 description = "Modern take on the classic German braised red cabbage."
+weight = 0
+
 [extra]
 source = "https://www.jamieoliver.com/recipes/vegetables-recipes/must-try-red-cabbage-braised-with-apple-bacon-and-balsamic-vinegar/"
+
+[taxonomies]
+categories = ["side"]
 +++
 1 onion
 
@@ -10,7 +15,7 @@ source = "https://www.jamieoliver.com/recipes/vegetables-recipes/must-try-red-ca
 
 2 eating apples
 
-2 rashers smoked streaky bacon
+2 slices smoked streaky bacon
 
 ½ a bunch of fresh flat-leaf parsley
 

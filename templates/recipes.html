@@ -1,9 +1,27 @@
 {% extends "base.html" %}
 {% block content %}
 {{ section.content | safe }}
+{#
 <ul>
     {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a><span class="fade">({{ page.taxonomies.categories.0 }}) </span></li>
     {% endfor %}
 </ul>
+#}
+<table>
+  <thead>
+    <tr>
+      <th>recipe</th>
+      <th>category</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for page in section.pages %}
+    <tr>
+      <td><a href="{{ page.permalink | safe }}">{{ page.title }}</a></td>
+      <td>{{ page.taxonomies.categories.0 }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
 {% endblock %}

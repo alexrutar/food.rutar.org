@@ -1,8 +1,13 @@
 +++
 title = "Slow-roasted lamb shoulder"
 description = "Tender lamb dish with nice crisp and strong rosemary flavour."
+weight = 0
+
 [extra]
 source = "https://www.recipetineats.com/slow-roasted-rosemary-garlic-lamb-shoulder/"
+
+[taxonomies]
+categories = ["main"]
 +++
 1.8kg lamb shoulder (bone in) or 1.3kg rolled lamb shoulder (bone out)
 

@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-{% if page %}
+{% if not current_path %}
+{% set title = "404 - page not found" %}
+{% elif page %}
 {% set title = page.title %}
 {% elif section %}
 {% set title = section.title %}
 {% else %}
-{% set title = "404 - page not found" %}
+{% set arr = current_path | split(pat="/") %}
+{% set title = arr.1 %}
 {% endif %}
 <html lang="en">
   <head>
@@ -35,12 +38,11 @@
         <nav class="header-nav">
           {% set links = load_data(path="data/links.json") %}
           {%- for obj in links.nav -%}
-          {%- if page.permalink %}
-          {%- set active_page = page.permalink is containing(obj.name) %}
-          {%- else %}
-          {%- set active_page = false %}
-          {%- endif %}
-          <a {% if obj.name == title or active_page %}class='active' {% endif %}href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a>{% endfor %}
+          {%- if not current_path %}{% set active = false %}
+          {%- elif current_path is starting_with(obj.url) %}{% set active = true %}
+          {%- else %}{% set active = false %}{% endif %}
+          <a {% if active %}class='active' {% endif %}href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a>
+          {%- endfor %}
         </nav>
       </div>
 

@@ -1,8 +1,13 @@
 +++
 title = "Lancashire pea and ham soup"
 description = "A simple but hearty pea and ham soup."
+weight = 0
+
 [extra]
 source = "https://www.mydish.co.uk/recipe/5800/lancashire-pea-and-ham-soup"
+
+[taxonomies]
+categories = ["main"]
 +++
 2L [ham stock](@/recipes/ham_stock.md) with 400g diced ham, from stock
 

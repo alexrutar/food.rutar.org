@@ -1,8 +1,13 @@
 +++
 title = "Dukkah"
-description = "Egyptian spice and nut garnish"
+description = "Egyptian spice and nut garnish."
+weight = 0
+
 [extra]
 source = "'Jerusalem' by Yotam Ottolenghi and Sami Tamimi"
+
+[taxonomies]
+categories = ["side"]
 +++
 70g hazelnuts, with their skins
 

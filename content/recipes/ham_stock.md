@@ -1,7 +1,12 @@
 +++
 title = "Ham stock"
 description = "Rich stock from ham hock."
+weight = 0
+
 [extra]
+
+[taxonomies]
+categories = ["base"]
 +++
 1 ham hock (approx. 1kg)
 

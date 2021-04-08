@@ -1,8 +1,13 @@
 +++
 title = "Cavolo nero with walnuts and orange"
 description = "A refreshing salad which tames the bitterness of cavolo nero."
+weight = 0
+
 [extra]
 source = "https://en.julskitchen.com/side/cavolo-nero-salad"
+
+[taxonomies]
+categories = ["side"]
 +++
 1 bunch cavolo nero
 

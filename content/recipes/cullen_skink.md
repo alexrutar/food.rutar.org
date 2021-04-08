@@ -1,8 +1,13 @@
 +++
 title = "Cullen skink"
-description = "Incredibly rich and delicious scottish fish stew."
+description = "Traditional scottish stew made from smoked haddock and potatoes."
+weight = 0
+
 [extra]
 source = "https://www.bbcgoodfood.com/recipes/cullen-skink"
+
+[taxonomies]
+categories = ["main"]
 +++
 1 tbsp unsalted butter
 

@@ -1,8 +1,13 @@
 +++
 title = "Fresh ginger and treacle cookies"
 description = "Flavourful ginger cookies with a soft interior and firm exterior."
+weight = 0
+
 [extra]
 source = "https://www.allrecipes.com/recipe/16318/fresh-ginger-cookies/"
+
+[taxonomies]
+categories = ["dessert"]
 +++
 270g plain flour
 
