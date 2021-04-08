@@ -16,7 +16,7 @@
     {% endif %}
 
     {% if page.extra.source %}
-    {% if page.extra.source is starting_with("http") -%}<div class="fade source-url"><span class="undo-color">url: </span><a href="{{ page.extra.source | safe }}">{{ page.extra.source | safe }}</a></div>
+    {% if page.extra.source is starting_with("http") -%}<div class="fade source-url">url: <a href="{{ page.extra.source | safe }}">{{ page.extra.source | safe }}</a></div>
     {%- else -%}<span class="fade">recipe from: {{ page.extra.source | safe }}</span>{%- endif -%}
     {% endif %}
   </div>

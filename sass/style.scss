@@ -18,7 +18,7 @@ body {
   background: $offWhite;
   margin: 0 auto;
   max-width: $maxWidth;
-  padding: 0 10px;
+  padding: 0 10px 25px;
   width: 100%;
   display: grid;
   grid-template-columns: auto;
@@ -47,7 +47,7 @@ body {
 
 .wrapper-recipe {
   display: grid;
-  grid-template-columns: 1fr 4fr;
+  grid-template-columns: 1fr 3fr;
   grid-template-rows: auto;
   column-gap: 30px;
   @include mobile {
@@ -62,7 +62,6 @@ body {
 }
 
 .source-url {
-  color: $light_color;
   text-overflow: ellipsis;
   overflow: hidden;
   width: 400px;
@@ -70,9 +69,6 @@ body {
     width: 300px;
   }
   white-space: nowrap;
-  .undo-color {
-    color: $gray;
-  }
   a {
     color: $light_color;
     font-size: 13px;
@@ -208,10 +204,6 @@ a {
   }
 }
 
-.hidden-link {
-  color: $darkGray;
-}
-
 .active {
   color: $main_color;
 }
@@ -234,9 +226,6 @@ ul {
 ol {
   list-style-type: decimal;
 }
-.pubs li {
-  margin-bottom: 5px;
-}
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
@@ -257,14 +246,4 @@ img {
 // Specify the color of the selection
 ::selection {
   background: $lightGray;
-}
-
-sup { 
-  vertical-align: super;
-  font-size: 70%;
-}
-
-var {
-  font-family: $math;
-  font-style: italic;
 }
