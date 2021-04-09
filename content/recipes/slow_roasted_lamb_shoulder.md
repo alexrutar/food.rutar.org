@@ -56,7 +56,7 @@ Turn up the oven to 220°C / 200°C fan and roast for a further 20-30m, until th
 Check if the meat is very tender - if not, cover and return to oven at 180°C / 160°C fan until you can do so.
 
 Remove lamb from the roasting pan and transfer to a plate.
-Cover loosely with foil then a couple of tea towels and let it rest for at least 20 minutes, up to a couple of hours.
+Cover loosely with foil then a couple of tea towels and let it rest for at least 20m, up to a couple of hours.
 
 ---
 
@@ -68,5 +68,5 @@ Add the flour and stir to mix in with the fat. Cook for 30 seconds.
 Add the wine and water gradually and stir to combine.
 Mash the onion and garlic thoroughly.
 
-Simmer for 1 to 2 minutes until to desired consistency, and remove from the stove.
+Simmer for 1-2m until to desired consistency, and remove from the stove.
 Season to taste with salt and pepper, strain, and serve.

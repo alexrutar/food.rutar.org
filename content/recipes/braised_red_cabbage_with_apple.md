@@ -35,7 +35,7 @@ Finely slice the bacon.
 
 Drizzle a good lug of oil into a pan over a medium heat, add the bacon, then bash and add the fennel seeds and cook until golden.
 
-Add the onion, cover, and continue to cook for 5 to 10 minutes, or until lightly golden and sticky.
+Add the onion, cover, and continue to cook for 5-10m, or until lightly golden and sticky.
 
 Scatter in the apple and cabbage, season with sea salt, black pepper and the vinegar, then stir well.
 

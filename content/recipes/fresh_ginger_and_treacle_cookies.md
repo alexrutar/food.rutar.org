@@ -48,6 +48,6 @@ Place 2 inches apart on ungreased baking sheets with parchment.
 
 Bake until edges start to brown and tops are firm, 15-20m (exact time depends on initial dough temperature).
 Centers will be slightly soft.
-Let stand on cookie sheets for 1 minute and remove to racks to cool completely.
+Let stand on cookie sheets for 1m and remove to racks to cool completely.
 <!-- sep -->
 makes about 22 cookies
