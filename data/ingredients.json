@@ -3,6 +3,10 @@
         "1 cup",
         "116"
     ],
+    "allspice": [
+        "1 tsp",
+        "2"
+    ],
     "almond flour": [
         "1 cup",
         "96"
@@ -155,6 +159,10 @@
         "2 tbsp",
         "18"
     ],
+    "cardamom": [
+        "1 tsp",
+        "2"
+    ],
     "carrots (cooked and puréed)": [
         "½ cup",
         "128"
@@ -223,6 +231,10 @@
         "1 cup",
         "170"
     ],
+    "cloves": [
+        "1 tsp",
+        "2.2"
+    ],
     "cocoa (unsweetened)": [
         "½ cup",
         "42"
@@ -263,9 +275,17 @@
         "½ cup",
         "77"
     ],
+    "condensed milk": [
+        "¼ cup",
+        "78"
+    ],
     "cookie crumbs": [
         "1 cup",
         "85"
+    ],
+    "coriander (ground)": [
+        "1 tsp",
+        "2"
     ],
     "corn (popped)": [
         "4 cups",
@@ -310,6 +330,10 @@
     "crystallized ginger": [
         "½ cup",
         "92"
+    ],
+    "cumin": [
+        "1 tsp",
+        "2.8"
     ],
     "currants": [
         "1 cup",
@@ -751,10 +775,6 @@
         "1 cup",
         "225"
     ],
-    "sugar (powdered, unsifted)": [
-        "2 cups",
-        "227"
-    ],
     "sugar (dark or light brown, packed)": [
         "1 cup",
         "213"
@@ -767,6 +787,10 @@
         "1 cup",
         "198"
     ],
+    "sugar (powdered, unsifted)": [
+        "2 cups",
+        "227"
+    ],
     "sugar (turbinado, raw)": [
         "1 cup",
         "180"
@@ -778,10 +802,6 @@
     "sunflower seeds": [
         "¼ cup",
         "35"
-    ],
-    "condensed milk": [
-        "¼ cup",
-        "78"
     ],
     "tahini paste": [
         "½ cup",

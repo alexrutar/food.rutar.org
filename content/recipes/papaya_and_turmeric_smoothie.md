@@ -1,6 +1,6 @@
 +++
 title = "Papaya and turmeric smoothie"
-description = "Refreshing spiced tropical smoothie."
+description = "Refreshing tropical spiced smoothie."
 weight = 0
 
 [extra]

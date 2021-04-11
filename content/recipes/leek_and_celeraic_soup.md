@@ -1,6 +1,6 @@
 +++
 title = "Leek and celeriac soup"
-description = "Hearty vegetable soup that is not too rich."
+description = "Creamy vegetable soup that is not too rich."
 weight = 0
 
 [extra]
