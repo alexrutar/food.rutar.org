@@ -13,7 +13,7 @@ categories = ["main"]
 
 1 tbsp olive oil
 
-About 500g peeled celeriac, roughly chopped (peeled weight)
+500g peeled celeriac, roughly chopped (peeled weight)
 
 2 tender inner sticks of celery, chopped
 
@@ -25,13 +25,17 @@ About 500g peeled celeriac, roughly chopped (peeled weight)
 
 2 garlic cloves, peeled and chopped
 
-About 1.25 litres light chicken or fish stock, or vegetable stock
+1¼ litres light stock (chicken, vegetable, or fish)
 
 ½ glass white wine
 
-100ml double cream, plus a little extra
+100ml double cream
 
 Sea salt and freshly ground black pepper
+
+---
+
+chives and double cream, to serve
 <!-- sep -->
 Place a large saucepan over a medium-low heat and add the butter and olive oil.
 When the butter is foaming, stir in all the chopped vegetables and garlic.
@@ -45,6 +49,6 @@ Return to the pan.
 
 To finish the soup, stir in the cream, if including.
 Warm the soup through gently and season with salt and pepper to taste.
-Ladle into warm bowls and pop the poached oysters on top or add a splash of cream and a sprinkling of chives to serve.
+Ladle into warm bowls and serve topped with some cream and chives.
 <!-- sep -->
 The wine makes a big difference - don't omit it.
