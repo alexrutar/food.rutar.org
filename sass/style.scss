@@ -25,22 +25,22 @@ body {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 60px auto;
   grid-template-areas:
-    "header-name header-nav"
-    "content content";
+    "name nav"
+    "ct ct";
   @include mobile {
     grid-template-columns: auto;
     grid-template-rows: 30px 20px auto;
     grid-template-areas:
-      "header-name"
-      "header-nav"
-      "content"
+      "name"
+      "nav"
+      "ct"
   }
 }
 
 // header in top left
 .header-name {
   margin: 0;
-  grid-area: header-name;
+  grid-area: name;
 
   font-weight: 300;
   font-size: 22px;
@@ -52,7 +52,7 @@ body {
 }
 
 .content {
-  grid-area: content;
+  grid-area: ct;
   border-top: 2px solid $lightGray;
 }
 
@@ -68,23 +68,23 @@ body {
   grid-template-columns: 1fr 3fr;
   grid-template-rows: auto;
   grid-template-areas:
-    "ingredients instructions";
+    "ing inst";
   column-gap: 30px;
   @include mobile {
     grid-template-columns: auto;
     grid-template-rows: auto auto;
     grid-template-areas:
-      "ingredients"
-      "instructions";
+      "ing"
+      "inst";
   }
 }
 
 .instructions {
-  grid-area: instructions;
+  grid-area: inst;
 }
 
 .ingredients {
-  grid-area: ingredients;
+  grid-area: ing;
   line-height: 15px;
   font-size: 15px;
   justify-self: right;
@@ -136,7 +136,7 @@ nav {
 .header-nav {
   justify-self: right;
   align-self: end;
-  grid-area: header-nav;
+  grid-area: nav;
 }
 
 // center headers when on mobile

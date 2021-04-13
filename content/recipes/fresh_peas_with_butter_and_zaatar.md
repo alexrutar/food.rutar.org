@@ -21,4 +21,3 @@ Add the peas and simmer for 3m.
 Strain peas from water, and add to serving bowl.
 
 Melt butter into the hot peas, and toss with the za'atar and a pinch of salt.
-<!-- sep -->
