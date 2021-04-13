@@ -7,7 +7,7 @@ weight = 0
 source = "https://www.allrecipes.com/recipe/16318/fresh-ginger-cookies/"
 
 [taxonomies]
-categories = ["dessert"]
+categories = ["bake"]
 +++
 270g plain flour
 

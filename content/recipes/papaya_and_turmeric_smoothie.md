@@ -7,7 +7,7 @@ weight = 0
 source = "https://cookinglsl.com/turmeric-papaya-smoothie/"
 
 [taxonomies]
-categories = ["other"]
+categories = ["drink"]
 +++
 ½ medium papaya (peeled, seeded, and chopped)
 
