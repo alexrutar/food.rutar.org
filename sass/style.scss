@@ -21,20 +21,26 @@ body {
   padding: 0 10px 25px;
   width: 100%;
   display: grid;
-  grid-template-columns: auto;
-  grid-template-rows: 60px auto auto;
-}
-
-.wrapper-header {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax($minWidth, 1fr));
-  border-bottom: 2px solid $lightGray;
-  margin-bottom: -2px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  grid-template-areas:
+    "header-name header-nav"
+    "content content";
+  @include mobile {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+      "header-name"
+      "header-nav"
+      "content"
+  }
 }
 
 // header in top left
 .header-name {
   margin: 0;
+  grid-area: header-name;
+
   font-weight: 300;
   font-size: 22px;
   letter-spacing: 0.5px;
@@ -44,6 +50,14 @@ body {
   color: $darkGray;
 }
 
+.content {
+  grid-area: content;
+}
+
+.contents-main, .instructions, .ingredients {
+  max-width: 100%;
+  min-width: 0;
+}
 
 .wrapper-recipe {
   display: grid;
@@ -64,10 +78,7 @@ body {
 .source-url {
   text-overflow: ellipsis;
   overflow: hidden;
-  width: 400px;
-  @include mobile {
-    width: 300px;
-  }
+  max-width: 100%;
   white-space: nowrap;
   a {
     color: $light_color;
@@ -110,6 +121,7 @@ nav {
 .header-nav {
   justify-self: right;
   align-self: end;
+  grid-area: header-nav;
 }
 
 // center headers when on mobile
