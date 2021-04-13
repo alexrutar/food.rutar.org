@@ -56,7 +56,9 @@ body {
   border-top: 2px solid $lightGray;
 }
 
-.content, .instructions, .ingredients {
+// this prevents elements from pushing out the width
+// of grid elements
+.content, .instructions {
   max-width: 100%;
   min-width: 0;
 }
