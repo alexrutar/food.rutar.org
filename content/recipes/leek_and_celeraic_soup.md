@@ -38,7 +38,7 @@ Sea salt and freshly ground black pepper
 chives and double cream, to serve
 <!-- sep -->
 Heat a large saucepan over medium-low heat and add the butter and olive oil.
-When the butter is foaming, in the chopped vegetables and garlic.
+When the butter is foaming, add the chopped vegetables and garlic.
 Cook gently for about 10m until everything is softened but not coloured.
 Pour in the stock and wine and bring to a gentle simmer.
 Cover and cook for 20–25m, stirring once or twice, until all the vegetables are tender.
@@ -47,7 +47,7 @@ Purée the soup in a blender until smooth.
 If it seems a little thick, thin with a bit more stock or water.
 Return to the saucepan.
 
-Stiry in the cream, warm the soup through gently, and season with salt and pepper to taste.
+Stir in the cream, warm the soup gently, and season with salt and pepper to taste.
 Ladle into bowls and serve topped with some cream and chives.
 <!-- sep -->
 The wine makes a big difference - don't omit it.
