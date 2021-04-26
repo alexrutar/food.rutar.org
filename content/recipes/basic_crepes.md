@@ -20,14 +20,14 @@ categories = ["bake"]
 
 butter to coat pan
 <!-- sep -->
-In a blender, combine all of the ingredients and pulse for 10 seconds.
+In a blender, combine all of the ingredients and pulse for 10s.
 Place the crepe batter in the refrigerator for 1-48h.
 
 Heat a small non-stick pan.
 Add butter to coat.
 Pour 1 ounce of batter into the center of the pan and swirl to spread evenly.
-Cook for 30 seconds and flip.
-Cook for another 10 seconds and remove to a serving platter.
+Cook for 30s and flip.
+Cook for another 10s and remove to a serving platter.
 Lay them out flat so they can cool.
 Continue until all batter is gone.
 <!-- sep -->

@@ -47,10 +47,10 @@ Stuff bits of rosemary and garlic slivers into the holes.
 Place the onion, halved garlic bulb and rosemary in the base of a roasting pan.
 Place the lamb on top and pour water around.
 
-Cover with lid or tightly with a double layer of foil, place in the oven, and reduce heat to 180c / 160c fan.
+Cover with lid or tightly with a double layer of foil, place in the oven, and reduce heat to 180°C / 160°C fan.
 Roast, covered with the foil, for 3h (2h 40m bone out)
 
-Remove foil and if there is no liquid in the pan, add 3/4 cup water.
+Remove foil and if there is no liquid in the pan, add 180ml water.
 Turn up the oven to 220°C / 200°C fan and roast for a further 20-30m, until the skin is browned and crisp.
 
 Check if the meat is very tender - if not, cover and return to oven at 180°C / 160°C fan until you can do so.
@@ -63,7 +63,8 @@ Cover loosely with foil then a couple of tea towels and let it rest for at least
 Tilt the pan and use a spoon to remove all but around 2 tbsp of fat (try to avoid scooping out any juices).
 
 Place the roasting pan on the stove over medium high heat.
-Add the flour and stir to mix in with the fat. Cook for 30 seconds.
+Add the flour and stir to mix in with the fat.
+Cook for 30s.
 
 Add the wine and water gradually and stir to combine.
 Mash the onion and garlic thoroughly.

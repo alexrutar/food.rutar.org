@@ -19,7 +19,7 @@ categories = ["drink"]
 
 ¼ tsp ground cinnamon
 
-1 tbsp lemon or lime juice (approx. 1/2 lemon or lime)
+1 tbsp lemon or lime juice (approx. 1/2 small lemon or lime)
 
 2 tbsp light-flavoured honey (such as acacia)
 
