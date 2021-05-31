@@ -1,6 +1,6 @@
 +++
 title = "Muhallabieh"
-description = "Milk and cornflower set pudding with bay leaf simple syrup."
+description = "Milk and cornflour set pudding with bay leaf simple syrup."
 weight = 0
 
 [extra]
@@ -34,7 +34,7 @@ dessicated coconut and nibbed pistachios, to garnish
 Prepare the simple syrup: add the bay leaves, vanilla pod, caster sugar, and water to a small saucepan.
 Heat gently, stirring consistently, until the sugar is dissolved.
 Remove from heat and leave to cool.
-Transfer to a small jar and refridgerate overnight.
+Transfer to a small jar and refrigerate overnight.
 
 ---
 
@@ -50,6 +50,6 @@ To serve, garnish with 1 tbsp of the simple syrup along with some coconut and ni
 <!-- sep -->
 You can also add some pomegranate seeds as a garnish as well.
 
-You can replace the the simple syrup with a rose water syrup, combining 2 parts light-flavoured honey (such as acacia) with1 part rosewater.
+You can replace the the simple syrup with a rose water syrup, combining 2 parts light-flavoured honey (such as acacia) with1 part rose water.
 Garnish with rose petals.
 
