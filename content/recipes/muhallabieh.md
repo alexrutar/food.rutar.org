@@ -11,7 +11,7 @@ categories = ["dessert"]
 +++
 2 bay leaves
 
-½ vanilla pod (¼ large pod)
+½ vanilla pod
 
 60g caster sugar
 
