@@ -29,7 +29,7 @@ categories = ["main"]
 
 3 spring onions, finely shredded
 
-2 freshg reen chillies, deseeded and finely chopped
+2 fresh green chillies, deseeded and finely chopped
 
 2 garlic cloves, crushed
 
