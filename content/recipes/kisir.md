@@ -46,7 +46,7 @@ seeds from 1 medium pomegranate
 handful mint leaves, some whole and some roughly shreddded
 
 <!-- sep -->
-Place onions and olive oil in large pand and sauté on a medium heat until translucent (about 5m).
+Place onions and olive oil in large pan and sauté on a medium heat until translucent (about 5m).
 Add tomato purée and cook for 2m, stirring continuously.
 Add the tomatoes, and simmer for another 4m.
 Add water, bring to boil, and stir in the bulghur.
@@ -58,4 +58,4 @@ Taste, and adjust seasoning if necessary.
 
 Serve garnished with spring onions, pomegranate seeds, mint leaves, and a drizzle of olive oil.
 <!-- sep -->
-You can use other sizes of bulghur wheat, but the cook time and water may need to be adjusted.
+You can use coarser sizes of bulghur wheat, but you may have to do some partial pre-cooking depending on the size.
