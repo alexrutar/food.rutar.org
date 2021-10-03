@@ -27,7 +27,7 @@ categories = ["main"]
 
 ¼ tsp chili flakes
 
-200g tin chopped tomatoes
+200g tin of chopped tomatoes
 
 150ml passata
 

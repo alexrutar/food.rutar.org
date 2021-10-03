@@ -29,7 +29,7 @@ categories = ["side"]
 
 4 spring onions, finely chopped
 
-2 garlic cloves, crused
+2 garlic cloves, crushed
 
 40g cashew nuts, lightly toasted and chopped
 
