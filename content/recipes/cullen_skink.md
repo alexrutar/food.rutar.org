@@ -11,6 +11,8 @@ categories = ["main"]
 +++
 1 tbsp unsalted butter
 
+1 medium onion
+
 400g medium potatoes (about 2), peeled and cut into 1cm cubes
 
 250g smoked haddock
@@ -18,6 +20,8 @@ categories = ["main"]
 250ml whole milk
 
 ½ small bunch of parsley, stems removed and coarsely chopped, leaves finely chopped
+
+1 bay leaf
 <!-- sep -->
 Melt the butter in a saucepan over a medium heat, then add the onion and fry for 5-8m until translucent but not browned.
 Add the potatoes and 300ml water and bring to the boil.
