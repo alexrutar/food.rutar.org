@@ -1,13 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
 {{ section.content | safe }}
-{#
-<ul>
-    {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a><span class="fade">({{ page.taxonomies.categories.0 }}) </span></li>
-    {% endfor %}
-</ul>
-#}
 <table>
   <thead>
     <tr>
