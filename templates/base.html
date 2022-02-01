@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 {% if not current_path %}
 {% set title = "404 - page not found" %}
+{% set description = "Page not found" %}
 {% elif page %}
 {% set title = page.title %}
+{% set description = page.description %}
 {% elif section %}
 {% set title = section.title %}
+{% set description = config.extra.description %}
 {% else %}
 {% set arr = current_path | split(pat="/") %}
 {% set title = arr.1 %}
+{% set description = config.extra.description %}
 {% endif %}
 <html lang="en">
   <head>
@@ -15,10 +19,10 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ config.extra.description }}">
+    <meta name="description" content="{{ description }}">
     <meta name="author" content="{{ config.extra.author }}">
     <meta property="og:title" content="{{ title }} – {{ config.extra.site_name }}">
-    <meta property="og:description" content="{{ config.extra.description }}">
+    <meta property="og:description" content="{{ description }}">
 
     <link rel="stylesheet" type="text/css" href="/style.css">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
