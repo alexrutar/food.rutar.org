@@ -1,6 +1,6 @@
 +++
 title = "Soon tofu jjigae"
-description = "Spicy Korean vegetarian soup"
+description = "Spicy Korean vegetarian soup."
 weight = 0
 
 [extra]

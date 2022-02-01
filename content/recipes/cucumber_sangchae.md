@@ -1,6 +1,6 @@
 +++
-title = "Cucumber Sangchae"
-description = "Refreshing salad with marinated feta and toasted cashews."
+title = "Cucumber sangchae"
+description = "Refreshing and mildly spicy Korean cucumber side dish."
 weight = 0
 
 [extra]
@@ -34,4 +34,3 @@ Rinse well.
 
 Mix the spring onion, garlic, vinegar, gochujang, and red pepper powder.
 Toss with the cucumber, and garnish with sesame seeds.
-

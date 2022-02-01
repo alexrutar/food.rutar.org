@@ -1,6 +1,6 @@
 +++
 title = "Brocolli namul"
-description = "Steamed brocolli with sweet and savoury sauce"
+description = "Steamed brocolli with sweet and savoury sauce."
 weight = 0
 
 [extra]
