@@ -29,6 +29,7 @@ categories = ["side"]
 
 1 tsp paprika
 <!-- sep -->
+Preheat the oven to 160°C (140°C fan).
 Spread the hazelnuts on a baking tray and place in the oven for 20m.
 Add the sunflower seeds to the tray halfway through, keeping them separate from the nuts.
 Remove from the oven and leave to cool while you toast the seeds.
