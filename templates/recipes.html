@@ -12,7 +12,7 @@
 {% for page in section.pages %}
     <tr>
       <td><a href="{{ page.permalink | safe }}">{{ page.title }}</a></td>
-      <td>{{ page.taxonomies.categories.0 }}</td>
+      <td><a href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories.0, lang=page.lang) }}">{{ page.taxonomies.categories.0 }}</a></td>
     </tr>
 {% endfor %}
   </tbody>
