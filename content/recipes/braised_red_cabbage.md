@@ -1,5 +1,5 @@
 +++
-title = "Braised red cabbage with apple, bacon, and balsamic vinegar"
+title = "Braised red cabbage"
 description = "Modern take on the classic German braised red cabbage."
 weight = 0
 
