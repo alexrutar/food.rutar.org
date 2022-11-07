@@ -39,7 +39,7 @@ categories = ["main"]
 
 2 tsp chopped fresh herbs (sage, marjoram or thyme)
 
-1 pinch red pepper ﬂakes
+1 pinch red pepper flakes
 
 ½ cup milk
 
@@ -61,8 +61,8 @@ Continue cooking, uncovered, for 30m, stirring occasionally.
 Adjust the seasoning.
 <!-- sep -->
 You really want to finely chop the cured meats and vegetables.
-An easy way to do this is to use a food processer (process meat and vegetables separately).
+An easy way to do this is to use a food processor (process meat and vegetables separately).
 
 Don't omit the red wine.
 
-Traditionally, serve with egg noodles and grated parmesan.
+Traditionally, serve with egg noodles and grated Parmesan.
