@@ -13,7 +13,7 @@ categories = ["bake"]
 
 130g caster sugar
 
----
+<hr>
 
 110g tahini paste
 
@@ -21,7 +21,7 @@ categories = ["bake"]
 
 25 ml double cream
 
----
+<hr>
 
 270g plain flour
 

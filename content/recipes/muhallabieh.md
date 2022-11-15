@@ -17,7 +17,7 @@ categories = ["dessert"]
 
 60ml water
 
----
+<hr>
 
 25g cornflour
 
@@ -27,7 +27,7 @@ categories = ["dessert"]
 
 40g caster sugar
 
----
+<hr>
 
 dessicated coconut and nibbed pistachios, to garnish
 <!-- sep -->
@@ -36,7 +36,7 @@ Heat gently, stirring consistently, until the sugar is dissolved.
 Remove from heat and leave to cool.
 Transfer to a small jar and refrigerate overnight.
 
----
+<hr>
 
 Whisk the cornflour with 50ml of the milk to make a paste.
 Pour the remaining milk, water, and sugar into a small saucepan.
@@ -44,7 +44,7 @@ Heat gently, stirring occasionally, until the mixture begins to release steam.
 Add the cornflour paste, whisking continually, and continue to heat until mixture has thickened and is just boiling.
 Transfer to 3 individual bowls or small glasses, cover with cling film (touching the surface), and refridgerate for 4h or until fully set.
 
----
+<hr>
 
 To serve, garnish with 1 tbsp of the simple syrup along with some coconut and nibbed pistachios.
 <!-- sep -->

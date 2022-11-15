@@ -13,7 +13,7 @@ categories = ["side"]
 
 ½ tsp salt
 
----
+<hr>
 
 3 tbsp red wine or sherry vinegar
 

@@ -18,7 +18,7 @@ categories = ["drink"]
 
 1 tsp rose water
 
----
+<hr>
 
 4 large lemons
 <!-- sep -->
@@ -26,7 +26,7 @@ Combine the granulated sugar, spices, and 240ml water in a small saucepan.
 Gently heat, stirring frequently, until sugar is completely dissolved.
 Transfer to a glass container and chill for at least 8h.
 
----
+<hr>
 
 Peel the lemons, making sure to remove the white pith.
 Cut into pieces to remove seeds, and add the lemon flesh and any juices to a blender.

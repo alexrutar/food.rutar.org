@@ -33,7 +33,7 @@ categories = ["main"]
 
 Sea salt and freshly ground black pepper
 
----
+<hr>
 
 chives and double cream, to serve
 <!-- sep -->

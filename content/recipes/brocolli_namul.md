@@ -11,7 +11,7 @@ categories = ["main"]
 +++
 400g brocolli florets
 
----
+<hr>
 
 2 spring onions, finely sliced at a diagonal
 
@@ -25,7 +25,7 @@ categories = ["main"]
 
 1 tbsp sesame oil
 
----
+<hr>
 
 1 tbsp sesame seeds
 <!-- sep -->

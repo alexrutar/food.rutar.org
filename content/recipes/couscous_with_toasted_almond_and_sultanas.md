@@ -14,7 +14,7 @@ categories = ["side"]
 
 50g sliced almonds
 
----
+<hr>
 
 1 stick cinnamon
 

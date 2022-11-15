@@ -15,7 +15,7 @@ categories = ["bake"]
 
 ½ teaspoon salt
 
----
+<hr>
 
 170g butter, softened
 
@@ -31,7 +31,7 @@ categories = ["bake"]
 
 1 egg
 
----
+<hr>
 
 granulated sugar to roll
 <!-- sep -->

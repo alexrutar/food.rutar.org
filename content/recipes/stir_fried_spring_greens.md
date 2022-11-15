@@ -14,7 +14,7 @@ canola oil
 
 30g cashews
 
----
+<hr>
 
 1 red chili, deseeded and sliced
 
@@ -22,7 +22,7 @@ canola oil
 
 2.5cm square ginger, thinly sliced
 
----
+<hr>
 
 150g spring greens (stalks removed)
 

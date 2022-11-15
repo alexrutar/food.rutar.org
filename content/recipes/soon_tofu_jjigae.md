@@ -13,7 +13,7 @@ categories = ["main"]
 
 1 tbsp Gochugaru
 
----
+<hr>
 
 ¼ cup chopped cabbage kimchi
 
@@ -21,7 +21,7 @@ categories = ["main"]
 
 3 Thai chili peppers, de-seeded and coarsely chopped
 
----
+<hr>
 
 2 cups vegetable stock
 
@@ -31,7 +31,7 @@ categories = ["main"]
 
 225g silken tofu, cubed
 
----
+<hr>
 
 125g enoki mushrooms
 

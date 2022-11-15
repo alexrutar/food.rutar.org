@@ -30,13 +30,13 @@ categories = ["main"]
 
 3 tbsp flour
 
----
+<hr>
 
 1.3kg oxtail
 
 4 tbsp neutral frying oil
 
----
+<hr>
 
 2 medium onions, thinly sliced
 
@@ -46,7 +46,7 @@ categories = ["main"]
 
 2 garlic cloves
 
----
+<hr>
 
 2 bay leaves
 
@@ -56,7 +56,7 @@ categories = ["main"]
 
 2 tbsp tomato purée
 
----
+<hr>
 
 1 cup parsley
 <!-- sep -->

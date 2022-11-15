@@ -35,13 +35,13 @@ categories = ["main"]
 
 salt and pepper
 
----
+<hr>
 
 ½ tbsp caraway seeds
 
 150g feta, broken roughly into small pieces
 
----
+<hr>
 
 ½ tbsp fresh oregano leaves
 
@@ -52,11 +52,11 @@ Melt butter and olive oil in large frying pan, cook shallot, celery and garlic g
 Add barley, thyme, paprika, bay leag, lemond rind, chili flakes, tomatoes, and ¼ tbsp salt.
 Bring mixture to boil, then simmer gently for 45m.
 
----
+<hr>
 
 Toast the caraway seeds in a dry pan for a couple minutes, then lightly crush them.
 Add to the feta along with some olive oil, and mix to combine.
 
----
+<hr>
 
 Serve the risotto topped with marinated feta and some oregano leaves.

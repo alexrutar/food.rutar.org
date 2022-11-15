@@ -19,7 +19,7 @@ categories = ["main"]
 
 4 stalks celery, finely chopped
 
----
+<hr>
 
 6 cloves carlic, minced
 
@@ -41,11 +41,11 @@ categories = ["main"]
 
 1 preserved lemon, finely chopped
 
----
+<hr>
 
 50g chopped parsley (plus extra, to garnish)
 
----
+<hr>
 
 olive oil
 

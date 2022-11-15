@@ -27,7 +27,7 @@ categories = ["main"]
 
 1 cup water
 
----
+<hr>
 
 2 tbsp flour
 
@@ -58,7 +58,7 @@ Check if the meat is very tender - if not, cover and return to oven at 180°C / 
 Remove lamb from the roasting pan and transfer to a plate.
 Cover loosely with foil then a couple of tea towels and let it rest for at least 20m, up to a couple of hours.
 
----
+<hr>
 
 Tilt the pan and use a spoon to remove all but around 2 tbsp of fat (try to avoid scooping out any juices).
 

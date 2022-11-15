@@ -24,7 +24,7 @@ categories = ["main"]
 
 salt and pepper
 
----
+<hr>
 
 10g parsley, finely chopped
 

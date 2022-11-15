@@ -11,7 +11,7 @@ categories = ["side"]
 +++
 40g pearl barley
 
----
+<hr>
 
 150g feta
 
@@ -23,7 +23,7 @@ categories = ["side"]
 
 ½ tsp cumin seeds, lightly toasted and crused
 
----
+<hr>
 
 80g flat leaf parsley, leaves and fine stems
 
