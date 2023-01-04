@@ -50,4 +50,4 @@ Return to the saucepan.
 Stir in the cream, warm the soup gently, and season with salt and pepper to taste.
 Ladle into bowls and serve topped with some cream and chives.
 <!-- sep -->
-The wine makes a big difference - don't omit it.
+The wine makes a big difference—don't omit it.

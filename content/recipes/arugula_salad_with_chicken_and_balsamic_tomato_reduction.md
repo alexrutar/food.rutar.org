@@ -29,7 +29,7 @@ Transfer to container and set in fridge until cooled.
 
 Mix 3 parts olive oil and 1 parts lemon juice in a jar.
 Add 1 tsp of honey and salt and pepper to taste.
-Shake vigourously.
+Shake vigorously.
 
 Place arugula in a large salad bowl.
 Crumble goat cheese and sprinkle with salt.

@@ -10,11 +10,11 @@ categories = ["base"]
 +++
 1 ham hock (approx. 1kg)
 
-1 large carrot, coarsley chopped
+1 large carrot, coarsely chopped
 
 1 large leek, coarsely chopped
 
-1 large spanish onion, coarsley chopped
+1 large Spanish onion, coarsely chopped
 
 4 sticks of celery, roughly chopped
 

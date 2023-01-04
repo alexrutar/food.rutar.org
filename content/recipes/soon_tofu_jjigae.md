@@ -11,7 +11,7 @@ categories = ["main"]
 +++
 1 tbsp neutral oil
 
-1 tbsp Gochugaru
+1 tbsp gochugaru
 
 <hr>
 

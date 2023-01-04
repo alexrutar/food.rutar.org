@@ -44,7 +44,7 @@ Chill for 1 hour to overnight.
 Preheat oven to 190°C / 170°C fan.
 
 Roll dough into 35g balls and then roll them in sugar.
-Place 2 inches apart on ungreased baking sheets with parchment.
+Place 5cm apart on ungreased baking sheets lined with parchment.
 
 Bake until edges start to brown and tops are firm, 15-20m (exact time depends on initial dough temperature).
 Centers will be slightly soft.

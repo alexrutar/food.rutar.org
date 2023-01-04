@@ -9,7 +9,7 @@ source = "https://www.souschef.co.uk/blogs/the-bureau-of-taste/broccoli-namul-re
 [taxonomies]
 categories = ["main"]
 +++
-400g brocolli florets
+400g broccoli florets
 
 <hr>
 
@@ -29,8 +29,8 @@ categories = ["main"]
 
 1 tbsp sesame seeds
 <!-- sep -->
-Steam brocolli for 5m until softened but still green and crisp.
+Steam broccoli for 5m until softened but still green and crisp.
 Stop cooking by submerging in cold water; drain, and set aside.
 
 Mix the remaining ingredients other than the sesame seeds in a large mixing bowl.
-Add the brocolli, toss, and garnish with sesamge sedds.
+Add the broccoli, toss, and garnish with sesame seeds.

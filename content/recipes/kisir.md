@@ -19,7 +19,7 @@ categories = ["main"]
 
 120ml water
 
-400g medium bulghur wheat, thoroughly washed
+400g medium bulgur wheat, thoroughly washed
 
 1½ tsp pomegranate molasses
 
@@ -43,19 +43,19 @@ extra spring onions and olive oil
 
 seeds from 1 medium pomegranate
 
-handful mint leaves, some whole and some roughly shreddded
+handful mint leaves, some whole and some roughly shredded
 
 <!-- sep -->
 Place onions and olive oil in large pan and sauté on a medium heat until translucent (about 5m).
 Add tomato purée and cook for 2m, stirring continuously.
 Add the tomatoes, and simmer for another 4m.
-Add water, bring to boil, and stir in the bulghur.
+Add water, bring to boil, and stir in the bulgur.
 Stir well, cook for 30s, then remove from the heat.
 
-Add molasses, lemon juice, parsley, spring onions, chillies, garlic, cumin, and some salt and pepper.
+Add molasses, lemon juice, parsley, spring onions, chilies, garlic, cumin, and some salt and pepper.
 Stir well, cover, and leave to rest until the dish reaches near room temperature or slightly warm.
 Taste, and adjust seasoning if necessary.
 
 Serve garnished with spring onions, pomegranate seeds, mint leaves, and a drizzle of olive oil.
 <!-- sep -->
-You can use coarser sizes of bulghur wheat, but you may have to do some partial pre-cooking depending on the size.
+You can use coarser sizes of bulgur wheat, but you may have to do some partial pre-cooking depending on the size.

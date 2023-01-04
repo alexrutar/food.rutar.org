@@ -11,7 +11,7 @@ categories = ["main"]
 +++
 500g minced turkey breast
 
-1 large courgette, coarsley grated (about 200g)
+1 large courgette, coarsely grated (about 200g)
 
 4 spring onions (about 40g)
 
@@ -19,7 +19,7 @@ categories = ["main"]
 
 2 tbsp chopped mint
 
-2 tbsp choopped coriander
+2 tbsp chopped coriander
 
 2 garlic cloves, crushed
 

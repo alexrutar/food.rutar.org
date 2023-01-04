@@ -23,7 +23,7 @@ categories = ["main"]
 
 4 tbsp sweet Hungarian paprika
 
-2 cups favorite chicken broth
+2 cups favourite chicken broth
 
 1½ tsp sea salt
 

@@ -29,4 +29,4 @@ categories = ["drink"]
 <!-- sep -->
 Blend all the ingredients together until smooth.
 <!-- sep -->
-This is also great with an orange - reduce the water slightly to compensate.
+This is also great with an orange—reduce the water slightly to compensate.

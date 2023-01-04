@@ -28,7 +28,7 @@ categories = ["main"]
 
 1 tsp oregano
 
-¼ tsp crushed red pepper ﬂakes
+¼ tsp crushed red pepper flakes
 <!-- sep -->
 Combine the ingredients except for the meat well, using only ¼ cup of the beef broth.
 Add the meat and just combine.

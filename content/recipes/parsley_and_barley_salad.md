@@ -19,9 +19,9 @@ categories = ["side"]
 
 1 tsp za'atar
 
-½ tsp coriander seeds, lightly toasted and crused
+½ tsp coriander seeds, lightly toasted and crushed
 
-½ tsp cumin seeds, lightly toasted and crused
+½ tsp cumin seeds, lightly toasted and crushed
 
 <hr>
 
@@ -33,7 +33,7 @@ categories = ["side"]
 
 40g cashew nuts, lightly toasted and chopped
 
-1 green pepper, deseeded and diced
+1 green pepper, de-seeded and diced
 
 ½ tsp ground allspice
 

@@ -24,7 +24,7 @@ categories = ["main"]
 
 1 tsp black pepper
 
-½ tsp groundnutmeg
+½ tsp ground nutmeg
 
 ¼ tsp ground cinnamon
 

@@ -49,7 +49,7 @@ salt and pepper
 Rinse pearl barley well with cold water and leave to drain.
 
 Melt butter and olive oil in large frying pan, cook shallot, celery and garlic gently until soft.
-Add barley, thyme, paprika, bay leag, lemond rind, chili flakes, tomatoes, and ¼ tbsp salt.
+Add barley, thyme, paprika, bay leaf, lemon rind, chili flakes, tomatoes, and ¼ tbsp salt.
 Bring mixture to boil, then simmer gently for 45m.
 
 <hr>

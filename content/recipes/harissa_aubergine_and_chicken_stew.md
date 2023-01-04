@@ -21,7 +21,7 @@ categories = ["main"]
 
 <hr>
 
-6 cloves carlic, minced
+6 cloves garlic, minced
 
 2 cans of chopped tomatoes (400ml each)
 

@@ -27,7 +27,7 @@ Melt the butter in a saucepan over a medium heat, then add the onion and fry for
 Add the potatoes and 300ml water and bring to the boil.
 Reduce the heat slightly and simmer for 10-15m.
 
-Meanwhile, put the haddock in another pan and cover with the the milk.
+Meanwhile, put the haddock in another pan and cover with the milk.
 Add the parsley stems and bay leaf to the milk.
 Cook gently for 5m, or until just tender.
 Remove the haddock from the milk with a slotted spoon (reserving the milk) and transfer to a plate and leave to cool slightly.
