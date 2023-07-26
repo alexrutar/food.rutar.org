@@ -11,7 +11,7 @@ categories = ["main"]
 +++
 1 tbsp unsalted butter
 
-1 medium onion
+1 medium onion, medium dice
 
 400g medium potatoes (about 2), peeled and cut into 1cm cubes
 
@@ -24,7 +24,7 @@ categories = ["main"]
 1 bay leaf
 <!-- sep -->
 Melt the butter in a saucepan over a medium heat, then add the onion and fry for 5-8m until translucent but not browned.
-Add the potatoes and 300ml water and bring to the boil.
+Add the potatoes, just barely cover with water (approx. 300ml), and bring to the boil.
 Reduce the heat slightly and simmer for 10-15m.
 
 Meanwhile, put the haddock in another pan and cover with the milk.
