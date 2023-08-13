@@ -51,7 +51,7 @@ Soak while you prepare the rest of the ingredients.
 
 Prepare the pickling mixture by combining the mustard seeds, allspice, juniper berries, coriander, cloves, bay leaves, and cinnamon stick.
 
-In a medium non-reactive saucepan (such as stainless steel), per 1kg of pickles add 350ml white vinegar, 475ml water, 30g sale, and 1 tbsp of the prepared pickling mixture.
+In a medium non-reactive saucepan (such as stainless steel), per 1kg of pickles add 350ml white vinegar, 475ml water, 30g salt, and 1 tbsp of the prepared pickling mixture.
 Set over medium heat and bring to approximately 50°C, stirring to dissolve the salt.
 Remove from heat and let steep for 15 minutes, then strain spices, reserving the pickling liquid.
 
