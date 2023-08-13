@@ -29,7 +29,7 @@ Remove the stalks from the cavolo nero, rinse, and dry thoroughly.
 
 Bundle the leaves together and slice into thin strips.
 Arrange in a bowl, dress with the olive oil, salt, and pepper, and a touch of balsamic vinegar.
-Massage the salad with your hands into the fibres are broken down, and let rest for 30m.
+Massage the salad with your hands until the fibres are broken down, and let rest for 30m.
 
 Meanwhile, peel, slice, and cut the orange into wedges.
 Toast the walnuts in a hot pan until fragrant, but not burnt.
