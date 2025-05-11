@@ -36,12 +36,12 @@ Coat the ricer cooker container with a thin layer of butter.
 Make a medium meringue: beat egg whites in a bowl, gradually adding sugar, until stiff but not separating.
 Add egg yolks and vanilla extract (to taste) and beat until thick.
 
-Combine the flour, ground black sesame seeds and cream in a small bowl, and thoroughly combine.
-Then, carefully mix into the meringue (preserving the structure of the meringue as much as possible).
+Thoroughly combine the flour and ground black sesame seeds in a small bowl.
+Then, along with the cream, carefully mix into the meringue (preserving the structure of the meringue as much as possible).
 Half way through mixing, add the sesame oil, and continue until just combined.
 
 Pour the batter into the rice cooker's inner cooking pan and bake on the "CAKE" setting for 45 min.
-When complete, remove the allow to cool slightly, then remove from the pan and allow to cool completely.
+When complete, remove the pan from the cooker and cool slightly, then remove from the pan and allow to cool completely.
 
 <!-- sep -->
 This recipe is made for a [Zojirushi NS-TSC10](https://www.zojirushi.com/app/product/nstsc) rice cooker.
